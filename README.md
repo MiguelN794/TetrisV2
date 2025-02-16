@@ -79,5 +79,5 @@ Este proyecto está licenciado bajo la Licencia MIT. Consulta el archivo LICENSE
 
 ## Créditos
 
-Este proyecto fue desarrollado por [Tu Nombre]. Si tienes alguna pregunta o sugerencia, no dudes en contactarme.
+Este proyecto fue desarrollado por Miguel N. Saleme. Si tienes alguna pregunta o sugerencia, no dudes en contactarme.
 

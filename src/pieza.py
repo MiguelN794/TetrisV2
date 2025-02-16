@@ -23,14 +23,14 @@ PIEZAS = {
             [0, 0, 0, 0],
             [0, 0, 0, 0]
         ],
-        'color': c.CYAN_SUAVE
+        'color': c.CYAN
     },
     'O': {
         'forma': [
             [1, 1],
             [1, 1]
         ],
-        'color': c.AMARILLO_SUAVE
+        'color': c.AMARILLO
     },
     'T': {
         'forma': [
@@ -38,7 +38,7 @@ PIEZAS = {
             [1, 1, 1],
             [0, 0, 0]
         ],
-        'color': c.MORADO_SUAVE
+        'color': c.MORADO
     },
     'S': {
         'forma': [
@@ -46,7 +46,7 @@ PIEZAS = {
             [1, 1, 0],
             [0, 0, 0]
         ],
-        'color': c.VERDE_SUAVE
+        'color': c.VERDE
     },
     'Z': {
         'forma': [
@@ -54,7 +54,7 @@ PIEZAS = {
             [0, 1, 1],
             [0, 0, 0]
         ],
-        'color': c.ROJO_SUAVE
+        'color': c.ROJO
     },
     'J': {
         'forma': [
@@ -62,7 +62,7 @@ PIEZAS = {
             [1, 1, 1],
             [0, 0, 0]
         ],
-        'color': c.AZUL_SUAVE
+        'color': c.AZUL
     },
     'L': {
         'forma': [
@@ -70,7 +70,7 @@ PIEZAS = {
             [1, 1, 1],
             [0, 0, 0]
         ],
-        'color': c.NARANJA_SUAVE
+        'color': c.NARANJA
     }
 }
 

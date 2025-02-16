@@ -43,13 +43,13 @@ GRIS = (40, 40, 40)  # Para el fondo
 GRIS_CLARO = (70, 70, 70)  # Para los marcos
 
 # Colores suaves para las piezas
-NARANJA_SUAVE = (255, 176, 97)  # Naranja melocotón
-AZUL_SUAVE = (135, 206, 235)    # Celeste
-VERDE_SUAVE = (152, 251, 152)   # Verde menta
-ROJO_SUAVE = (255, 182, 193)    # Rosa claro
-MORADO_SUAVE = (221, 160, 221)  # Orquídea
-AMARILLO_SUAVE = (255, 229, 124) # Amarillo pastel
-CYAN_SUAVE = (175, 238, 238)    # Turquesa claro
+NARANJA = (255, 121, 0)  # Pantone 151 C
+AZUL = (0, 56, 168)    # Pantone 286 C
+VERDE = (0, 204, 102)   # Pantone 354 C
+ROJO = (200, 16, 46)    # Pantone 186 C
+MORADO = (153, 51, 153)  # Pantone 2592 C
+AMARILLO = (255, 221, 0) # Pantone 109 C
+CYAN = (0, 181, 226)    # Pantone 306 C
 
 # Velocidad del juego
 FPS = 10
